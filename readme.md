@@ -1,9 +1,11 @@
 #enigme WTC:
 
 _M K H X A R Z Y I F K T Z.com_
-![alt text][logo]
 
-[logo]: https://github.com/JeanSairien/MDI/blob/master/logoepisode37wtc-dossier-y.png "Logo COlonel ep37"
+![Logo Colonel Ep37](/logoepisode37wtc-dossier-y.png)
+
+
+
 
 
 ##episode:

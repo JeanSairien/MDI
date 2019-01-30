@@ -39,24 +39,36 @@ stingray tramsmission
 
 ##PERSONAGE :
 
-morasko petla 
-francois byzantin ?
-melchisédech
+* morasko petla 
+* francois byzantin ?
+* melchisédech
 
 ##PERSONNE:
 
 ikakura twitch
+
 julien barbotin
+
 paul gourault
+
 tristan piechocki
+
 roman arroyo
+
 thomas olland
+
 pickmean
+
 sarah cotten
+
 dave sheik
+
 guillaume reis
+
 mickael durard
+
 titouan gautien
+
 lou howard
 
 ##LIEU:

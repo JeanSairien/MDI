@@ -2,7 +2,7 @@
 
 _M K H X A R Z Y I F K T Z.com_
 
-![Logo Colonel Ep37](/logoepisode37wtc-dossier-y.png)
+![Logo Colonel Ep37](https://github.com/JeanSairien/MDI/blob/master/logoepisode37wtc-dossier-y.png)
 
 
 

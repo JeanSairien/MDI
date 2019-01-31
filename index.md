@@ -1,20 +1,20 @@
-#enigme WTC:
+# enigme WTC:
 
 _M K H X A R Z Y I F K T Z.com_
 
 ![Logo Colonel Ep37](https://github.com/JeanSairien/MDI/blob/master/logoepisode37wtc-dossier-y.png)
 
 
-#Bienvenue sur Ma page dédié au MDI , tout d'abord je m'y colle que maintenant donc y'a pas grand choses et surement des elements déja écartés donc je compte sur vous pour ne pas crier ("Ah mais non c'est pas sa ....ect ect")..... :-)
+# Bienvenue sur Ma page dédié au MDI , tout d'abord je m'y colle que maintenant donc y'a pas grand choses et surement des elements déja écartés donc je compte sur vous pour ne pas crier ("Ah mais non c'est pas sa ....ect ect")....., je rajouterais des choses au fur et a mesure de mon avancées :-)
 
 ----
 
-_(j'ai pas trop fouiner sur le discord)_
+_(j'ai pas trop fouiner sur le discord voir presque pas mais jsuis motiver)_
 _(N'hesitez pas a me faire des retours :-))_
 
 ----
 
-##episode:
+## episode:
 
 **mezzanine**
 
@@ -24,37 +24,43 @@ _(N'hesitez pas a me faire des retours :-))_
 
 ----
 
-##OBJECT:
+## OBJECT:
 
   >plan ep 37
 
 ----
 
-##référence:
+## référence:
 
   >tépé gégé
 
 ----
 
-##YOUTUBE:
+## YOUTUBE:
 
   >stingray tramsmission
 
 ----
 
-##TWITTER:
+## TWITTER:
 
   >stingray tramsmission
 
 ----
 
-##DATE:
+## TWITch:
+
+  >MrAntoineDaniel
+
+----
+
+## DATE:
 
   >17052014
 
 ----
 
-##PERSONAGE :
+## PERSONAGE :
 
    >morasko petla 
    
@@ -64,7 +70,7 @@ _(N'hesitez pas a me faire des retours :-))_
   
 ----  
 
-##PERSONNE:
+## PERSONNE:
 
   >ikakura twitch
   
@@ -94,7 +100,7 @@ _(N'hesitez pas a me faire des retours :-))_
   
  ---- 
 
-##LIEU:
+## LIEU:
 
   >belgique fort de varois
 

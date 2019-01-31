@@ -5,7 +5,7 @@ _M K H X A R Z Y I F K T Z.com_
 ![Logo Colonel Ep37](https://github.com/JeanSairien/MDI/blob/master/logoepisode37wtc-dossier-y.png)
 
 
-# Bienvenue sur Ma page dédié au MDI , tout d'abord je m'y colle que maintenant donc y'a pas grand choses et surement des elements déja écartés donc je compte sur vous pour ne pas crier ("Ah mais non c'est pas sa ....ect ect")....., je rajouterais des choses au fur et a mesure de mon avancées :-)
+# Bienvenue sur Ma page dédié au MDI , tout d'abord je m'y colle que maintenant donc y'a pas grand choses et surement des elements déja écartés donc je compte sur vous pour ne pas crier ("Ah mais non c'est pas sa ....ect ect")....., je rajouterais des choses au fur et a mesure de mon avancée :-)
 
 ----
 

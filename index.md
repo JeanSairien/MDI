@@ -101,7 +101,10 @@ _(N'hesitez pas a me faire des retours :-))_
 
       __le site MKHXARZYIFKTZ.com est un nom de domaine reservé par Julien.B qui a voulu lui aussi chercher le mdi mais manque de chance pour lui il connait antoine irl et donc il s'est fait stalk/harcelé etc... et a donc arrêté__
 
-  
+---
+
+  __ la suite des noms sont en majorité des gens de l'equipe de tournage EP 37 __ 
+
   >paul gourault
   
   >tristan piechocki

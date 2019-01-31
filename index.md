@@ -1,11 +1,15 @@
 # enigme WTC:
 
-_M K H X A R Z Y I F K T Z.com_
+
 
 ![Logo Colonel Ep37](https://github.com/JeanSairien/MDI/blob/master/logoepisode37wtc-dossier-y.png)
 
 
 # Bienvenue sur Ma page dédié au MDI , tout d'abord je m'y colle que maintenant donc y'a pas grand choses et surement des elements déja écartés donc je compte sur vous pour ne pas crier ("Ah mais non c'est pas sa ....ect ect")....., je rajouterais des choses au fur et a mesure de mon avancée :-)
+
+# Pour chaques pistes infos des parenthéses seront placéer pour expliquer s'il s'agit d'une  information plausible ou fausse:
+
+ __ex: (FAUSSE PIST),(A VERIFIER),(PISTE SURE)__
 
 ----
 
@@ -78,9 +82,11 @@ _(N'hesitez pas a me faire des retours :-))_
 
 ## PERSONAGE :
 
-   >morasko petla 
-   
-   >francois byzantin ?
+   >morasko petla/francois byzantin :
+    
+      __Morasko + Byzantin Antoine a lui même expliqué son histoire avec byzantin, il avait commencé à spam des commentaire avec de faux comptes pour promouvoir sa chaine youtube, suite à ca Antoine s'est mis en tête de le stalker (vu l'energumène que c'est....), ca s'est retourné contre AD quand byzantin a commencé à parasiter le mdi (avec encore une fois pour but de se faire de la pub)__
+      (FAUSSE PISTE)
+      
    
    >melchisédech
   
@@ -88,9 +94,13 @@ _(N'hesitez pas a me faire des retours :-))_
 
 ## PERSONNE:
 
-  >ikakura twitch
+  >ikakura twitch:
+      Voir fichier zip dans le dépot **LiveARG**
   
-  >julien barbotin
+  >julien barbotin:
+
+      __le site MKHXARZYIFKTZ.com est un nom de domaine reservé par Julien.B qui a voulu lui aussi chercher le mdi mais manque de chance pour lui il connait antoine irl et donc il s'est fait stalk/harcelé etc... et a donc arrêté__
+
   
   >paul gourault
   

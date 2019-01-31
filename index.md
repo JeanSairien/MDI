@@ -83,10 +83,10 @@ _(N'hesitez pas a me faire des retours :-))_
 ## PERSONAGE :
 
    >morasko petla/francois byzantin :
+   
+   __Morasko + Byzantin Antoine a lui même expliqué son histoire avec byzantin, il avait commencé à spam des commentaire avec de faux comptes pour promouvoir sa chaine youtube, suite à ca Antoine s'est mis en tête de le stalker (vu l'energumène que c'est....), ca s'est retourné contre AD quand byzantin a commencé à parasiter le mdi (avec encore une fois pour but de se faire de la pub)__
+   (FAUSSE PISTE)
     
-      __Morasko + Byzantin Antoine a lui même expliqué son histoire avec byzantin, il avait commencé à spam des commentaire avec de faux comptes pour promouvoir sa chaine youtube, suite à ca Antoine s'est mis en tête de le stalker (vu l'energumène que c'est....), ca s'est retourné contre AD quand byzantin a commencé à parasiter le mdi (avec encore une fois pour but de se faire de la pub)__
-      (FAUSSE PISTE)
-      
    
    >melchisédech
   
@@ -95,11 +95,11 @@ _(N'hesitez pas a me faire des retours :-))_
 ## PERSONNE:
 
   >ikakura twitch:
-      Voir fichier zip dans le dépot **LiveARG**
+   Voir fichier zip dans le dépot **LiveARG**
   
   >julien barbotin:
 
-      __le site MKHXARZYIFKTZ.com est un nom de domaine reservé par Julien.B qui a voulu lui aussi chercher le mdi mais manque de chance pour lui il connait antoine irl et donc il s'est fait stalk/harcelé etc... et a donc arrêté__
+   __le site MKHXARZYIFKTZ.com est un nom de domaine reservé par Julien.B qui a voulu lui aussi chercher le mdi mais manque de chance pour lui il connait antoine irl et donc il s'est fait stalk/harcelé etc... et a donc arrêté__
 
 ---
 
